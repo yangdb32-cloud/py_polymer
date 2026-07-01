@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/pypoly/__init__.py
+src/pypoly/pyPoly.py
+src/pypoly_reactor.egg-info/PKG-INFO
+src/pypoly_reactor.egg-info/SOURCES.txt
+src/pypoly_reactor.egg-info/dependency_links.txt
+src/pypoly_reactor.egg-info/requires.txt
+src/pypoly_reactor.egg-info/top_level.txt

@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: pypoly-reactor
+Version: 0.1.0
+Summary: Polymerization reactor modeling package using the method of moments
+Author: Dabin Yang
+License-Expression: MIT
+Keywords: polymerization,reactor modeling,method of moments,chemical engineering
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: matplotlib>=3.7
+Dynamic: license-file
+
+# PyPoly Reactor
+
+PyPoly Reactor is a Python package for polymerization reactor modeling
+using the method of moments.
+
+The package supports batch, CSTR, and PFR polymerization simulations
+and calculates molecular-weight properties such as Mn, Mw, and PDI.
+
+## Installation
+
+```bash
+pip install pypoly-reactor
