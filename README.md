@@ -2,7 +2,7 @@
 PyPoly Reactor is a Python package for polymerization reactor modeling using the method of moments.
 The package supports Batch, CSTR, and PFR polymerization simulations and calculates molecular-weight properties such as Mn, Mw, and PDI.
 
-![pyPolymer logo](assets/logo.png)
+![pyPolymer logo](assets/pyPolymer.png)
 
 ## Installation
 It is recommended to install PyPoly Reactor in a Python virtual environment.
